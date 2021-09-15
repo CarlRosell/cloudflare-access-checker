@@ -1,4 +1,8 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+}
+
+pre {
+  background: lightgray;
+  padding: 10px;
 }
